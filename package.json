@@ -1,0 +1,16 @@
+{
+  "name": "scrape-script-type-module",
+  "version": "1.0.0",
+  "description": "Scrape a list of sites that Google says use <script type=\"module\"> and analyze them",
+  "scripts": {
+    "start": "npx coffee index.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geoffrey Booth <webmaster@geoffreybooth.com>",
+  "license": "ISC",
+  "dependencies": {
+    "coffeescript": "^2.3.2",
+    "js-yaml": "^3.12.1",
+    "puppeteer": "^1.12.2"
+  }
+}
