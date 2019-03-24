@@ -1,951 +1,2072 @@
 {
-	"http://amo.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://abcdefg123.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://awei791129.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://amypuipui.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://cc850719.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://area51store.co.nz/": [
+		{
+			"html": "<script type=\"module\" src=\"//cdn.shopify.com/s/files/1/2500/8302/t/5/assets/app.89aded29.js\"></script>",
+			"src": "https://cdn.shopify.com/s/files/1/2500/8302/t/5/assets/app.89aded29.js"
+		}
 	],
-	"http://cgv3088.pixnet.net/": [],
-	"http://ckary1120.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://bosstwo420.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://david99022.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://candy16899.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://des13.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://checkin.costasur.com/": [],
+	"http://colunas.revistaepoca.globo.com/": [
+		{
+			"html": "<script src=\"https://ogjs.infoglobo.com.br/32/scripts/video-player.js.pagespeed.ce.EJzsa_0hxA.js\" type=\"module\"></script>",
+			"src": "https://ogjs.infoglobo.com.br/32/scripts/video-player.js.pagespeed.ce.EJzsa_0hxA.js"
+		},
+		{
+			"html": "<script src=\"https://ogjs.infoglobo.com.br/32/scripts/people-teasers.js.pagespeed.ce.GUP1g1_WOE.js\" type=\"module\"></script>",
+			"src": "https://ogjs.infoglobo.com.br/32/scripts/people-teasers.js.pagespeed.ce.GUP1g1_WOE.js"
+		},
+		{
+			"html": "<script src=\"https://ogjs.infoglobo.com.br/32/scripts/photo-gallery-teasers.js.pagespeed.ce.xNszp-iJ2D.js\" type=\"module\"></script>",
+			"src": "https://ogjs.infoglobo.com.br/32/scripts/photo-gallery-teasers.js.pagespeed.ce.xNszp-iJ2D.js"
+		}
 	],
-	"http://diwang.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://dav0611.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://es.hoteles.letsbonus.com/": [],
-	"http://ezpcstore.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://elevatedgaming.net/": [],
+	"http://flyfei.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://happymommy.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://fruit888.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://ifjdskwyhfs98rwk.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://henryzeng.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://kaworu0612.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://hotels.wakanow.com/": [],
+	"http://hsuanthony.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://klojer.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://ii520avon.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://lbt95.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://interactives.indystar.com/": [],
+	"http://joliz.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://lungwenpin.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://kevinijessi.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://misaandderek.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://klol.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://offers.dailyrecord.com/": [],
-	"http://offers.press-citizen.com/": [],
-	"http://purplishfish.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://leafelin.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://rokensue.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://limint.pixnet.net/": [],
+	"http://lissam.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://sallykuo3041.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://lucyloveham.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://sharonword.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://momentyet.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://somebabytina.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://on9558.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://t121314.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://oyummy.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://timmy111001.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://pekyta.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://toptoy.co.kr/": [
-		"<script src=\"http://toptoy.co.kr/js/toptoy_renew/ionicons/ionicons.4nj5ozg1.js\" type=\"module\" crossorigin=\"true\" data-resources-url=\"http://toptoy.co.kr/js/toptoy_renew/ionicons/\" data-namespace=\"ionicons\"></script>"
+	"http://ronald0527.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://u402053.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://rubieelffie.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://umod.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://starzeroman.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://wowshoppingqueen.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://tony168324.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://wwp52.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://toyangel.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"http://www.24banking.ro/": [
-		"<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/main.880547ee4eead4acc51d.min.js\"></script>",
-		"<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/vendors~main.541ea697e8dbeb001849.min.js\"></script>"
+	"http://womantalk99.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
 	"http://www.6play.fr/": [
-		"<script type=\"module\" src=\"/client-aee3f52920.bundle.js\"></script>",
-		"<script type=\"module\" src=\"/main-ac2b5a7971.bundle.js\"></script>",
-		"<script type=\"module\" src=\"/vendors-121ddd1cf0.bundle.js\"></script>"
+		{
+			"html": "<script type=\"module\" src=\"/vendors-7d1df4e778.bundle.js\"></script>",
+			"src": "https://www.6play.fr/vendors-7d1df4e778.bundle.js"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/main-deb6b393c9.bundle.js\"></script>",
+			"src": "https://www.6play.fr/main-deb6b393c9.bundle.js"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/client-9eb4ac8de1.bundle.js\"></script>",
+			"src": "https://www.6play.fr/client-9eb4ac8de1.bundle.js"
+		}
 	],
 	"http://www.airbnb.ae/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.at/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.be/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.ca/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.cat/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.ch/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.cl/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.co.cr/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.co.id/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.co.in/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.co.kr/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.co.nz/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.co.uk/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.co.ve/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.com.ar/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.com.au/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.com.br/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.com.co/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.com.hk/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.com.mt/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.com.my/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.com.pe/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.com.sg/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.com.tr/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.com.tw/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.com/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.cz/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.de/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.dk/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.es/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.fi/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.fr/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.gr/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.hu/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.ie/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.it/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.jp/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.mx/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.nl/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.no/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.pl/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.pt/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
 	"http://www.airbnb.ru/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnb.se/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"http://www.airbnbchina.cn/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
-	"http://www.app.com/": [],
-	"http://www.area51store.co.nz/": [
-		"<script type=\"module\" src=\"//cdn.shopify.com/s/files/1/2500/8302/t/5/assets/app.89aded29.js\"></script>"
-	],
+	"http://www.allthemoms.com/": [],
+	"http://www.azcentral.com/": [],
 	"http://www.baiwang.com.cn/": [],
 	"http://www.beeldengeluid.nl/": [
-		"<script type=\"module\" async=\"\" src=\"/themes/bg_theme/assets/js/main-es.js?hdRaLXC3Qn5zDQKJ11KEGBtLmHTUuxP7wOd1N8z4_rHphrHOJdG7ypHl-tNyGatIgcBsxQGgGg\"></script>"
+		{
+			"html": "<script type=\"module\" async=\"\" src=\"/themes/bg_theme/assets/js/main-es.js?wRJg6QVeAjWJL0CbRmFnfvlVELCO1v-HJ3q0p1zvxM1G5n8YVqleZGrbGUa_vbQJWm1SpZBFFw\"></script>",
+			"src": "https://www.beeldengeluid.nl/themes/bg_theme/assets/js/main-es.js?wRJg6QVeAjWJL0CbRmFnfvlVELCO1v-HJ3q0p1zvxM1G5n8YVqleZGrbGUa_vbQJWm1SpZBFFw"
+		}
 	],
-	"http://www.cincinnati.com/": [],
+	"http://www.caller.com/": [],
+	"http://www.citizen-times.com/": [],
 	"http://www.clarionledger.com/": [],
-	"http://www.commercialappeal.com/": [],
-	"http://www.dazn.com/": [],
+	"http://www.coop.no/": [
+		{
+			"html": "<script src=\"/assets/scripts/esm/coop-no.js?c6a31cec8149721e9f4bd82e5efaaa12\" type=\"module\"></script>",
+			"src": "https://coop.no/assets/scripts/esm/coop-no.js?c6a31cec8149721e9f4bd82e5efaaa12"
+		}
+	],
+	"http://www.courier-journal.com/": [],
+	"http://www.courierpostonline.com/": [],
+	"http://www.dailyrecord.com/": [],
 	"http://www.debijenkorf.be/": [],
 	"http://www.debijenkorf.nl/": [],
-	"http://www.democratandchronicle.com/": [],
-	"http://www.desertsun.com/": [],
-	"http://www.ee.ku.ac.th/": [],
-	"http://www.enquirer.com/": [],
-	"http://www.erstecardclub.hr/": [
-		"<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/main.880547ee4eead4acc51d.min.js\"></script>",
-		"<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/vendors~main.541ea697e8dbeb001849.min.js\"></script>"
+	"http://www.delmarvanow.com/": [],
+	"http://www.detroitnews.com/": [],
+	"http://www.dnj.com/": [],
+	"http://www.erstegroup.com/": [
+		{
+			"html": "<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/vendors~main.cc9ce38795b4bfc12b66.min.js\"></script>",
+			"src": "https://www.erstegroup.com/etc/designs/gem/themes/js/build/vendors~main.cc9ce38795b4bfc12b66.min.js"
+		},
+		{
+			"html": "<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/main.0c953b05ca6f999e91ef.min.js\"></script>",
+			"src": "https://www.erstegroup.com/etc/designs/gem/themes/js/build/main.0c953b05ca6f999e91ef.min.js"
+		}
 	],
+	"http://www.ffdy.cc/": [],
 	"http://www.fleetwaytravel.com/": [
-		"<script src=\"https://unpkg.com/ts-search-stencil/dist/search/search.wvrpvjqx.js\" type=\"module\" crossorigin=\"true\" data-resources-url=\"https://unpkg.com/ts-search-stencil/dist/search/\" data-namespace=\"search\"></script>"
+		{
+			"html": "<script src=\"https://unpkg.com/ts-search-stencil/dist/search/search.wvrpvjqx.js\" type=\"module\" crossorigin=\"true\" data-resources-url=\"https://unpkg.com/ts-search-stencil/dist/search/\" data-namespace=\"search\"></script>",
+			"src": "https://unpkg.com/ts-search-stencil/dist/search/search.wvrpvjqx.js"
+		}
 	],
 	"http://www.flip.lease/": [
-		"<script src=\"https://cdn.flip.lease/js/modules.5cf4b1754b188fa3b97d.js\" crossorigin=\"true\" type=\"module\"></script>"
+		{
+			"html": "<script src=\"https://cdn.flip.lease/js/modules.ccff86991519b2efbe92.js\" crossorigin=\"true\" type=\"module\"></script>",
+			"src": "https://cdn.flip.lease/js/modules.ccff86991519b2efbe92.js"
+		}
 	],
-	"http://www.guampdn.com/": [],
+	"http://www.floridatoday.com/": [],
+	"http://www.freep.com/": [],
+	"http://www.greatfallstribune.com/": [],
 	"http://www.hehesheng.com/": [],
-	"http://www.html5test.com/": [],
-	"http://www.independentmail.com/": [],
+	"http://www.holonis.com/": [],
+	"http://www.html5test.com/": [
+		{
+			"html": "<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_016422(typeof window.test_module_scope === 'undefined')\"></script>",
+			"src": "data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_016422(typeof window.test_module_scope === 'undefined')"
+		}
+	],
+	"http://www.idealo.es/": [],
 	"http://www.ionic.io/": [
-		"<script src=\"https://ionicframework.com/js/stencil/ionic-site-components/ionic-site-components.3ygv2byg.js\" type=\"module\" crossorigin=\"true\" data-resources-url=\"https://ionicframework.com/js/stencil/ionic-site-components/\" data-namespace=\"ionic-site-components\"></script>"
+		{
+			"html": "<script src=\"https://ionicframework.com/js/stencil/ionic-site-components/ionic-site-components.1nlvmivv.js\" type=\"module\" crossorigin=\"true\" data-resources-url=\"https://ionicframework.com/js/stencil/ionic-site-components/\" data-namespace=\"ionic-site-components\"></script>",
+			"src": "https://ionicframework.com/js/stencil/ionic-site-components/ionic-site-components.1nlvmivv.js"
+		}
 	],
-	"http://www.ionicons.com/": [
-		"<script src=\"/build/docssite/docssite.4drkce6o.js\" type=\"module\" crossorigin=\"true\" data-resources-url=\"/build/docssite/\" data-namespace=\"docssite\"></script>"
-	],
-	"http://www.ipress.ua/": [],
 	"http://www.jslint.com/": [
-		"<script src=\"./browser.js\" type=\"module\"></script>"
+		{
+			"html": "<script src=\"./browser.js\" type=\"module\"></script>",
+			"src": "http://www.jslint.com/browser.js"
+		}
 	],
 	"http://www.jsonline.com/": [],
+	"http://www.kitsapsun.com/": [],
 	"http://www.knoxnews.com/": [],
+	"http://www.lansingstatejournal.com/": [],
+	"http://www.lcsun-news.com/": [],
 	"http://www.linerider.com/": [
-		"<script type=\"module\" src=\"/_v1504.3/main.js\" crossorigin=\"\"></script>"
+		{
+			"html": "<script type=\"module\" src=\"/_v1504.8/main.js\" crossorigin=\"\"></script>",
+			"src": "https://www.linerider.com/_v1504.8/main.js"
+		}
 	],
-	"http://www.lohud.com/": [],
 	"http://www.m6.fr/": [
-		"<script type=\"module\" src=\"/client-aee3f52920.bundle.js\"></script>",
-		"<script type=\"module\" src=\"/main-ac2b5a7971.bundle.js\"></script>",
-		"<script type=\"module\" src=\"/vendors-121ddd1cf0.bundle.js\"></script>"
+		{
+			"html": "<script type=\"module\" src=\"/vendors-7d1df4e778.bundle.js\"></script>",
+			"src": "https://www.6play.fr/vendors-7d1df4e778.bundle.js"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/main-deb6b393c9.bundle.js\"></script>",
+			"src": "https://www.6play.fr/main-deb6b393c9.bundle.js"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/client-9eb4ac8de1.bundle.js\"></script>",
+			"src": "https://www.6play.fr/client-9eb4ac8de1.bundle.js"
+		}
 	],
 	"http://www.m6replay.fr/": [
-		"<script type=\"module\" src=\"/client-aee3f52920.bundle.js\"></script>",
-		"<script type=\"module\" src=\"/main-ac2b5a7971.bundle.js\"></script>",
-		"<script type=\"module\" src=\"/vendors-121ddd1cf0.bundle.js\"></script>"
+		{
+			"html": "<script type=\"module\" src=\"/vendors-7d1df4e778.bundle.js\"></script>",
+			"src": "https://www.6play.fr/vendors-7d1df4e778.bundle.js"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/main-deb6b393c9.bundle.js\"></script>",
+			"src": "https://www.6play.fr/main-deb6b393c9.bundle.js"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/client-9eb4ac8de1.bundle.js\"></script>",
+			"src": "https://www.6play.fr/client-9eb4ac8de1.bundle.js"
+		}
 	],
-	"http://www.mbu.hr/": [
-		"<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/main.880547ee4eead4acc51d.min.js\"></script>",
-		"<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/vendors~main.541ea697e8dbeb001849.min.js\"></script>"
+	"http://www.mydriver.com/": [
+		{
+			"html": "<script src=\"/build/app/app.oblvknyz.js\" type=\"module\" crossorigin=\"true\" data-resources-url=\"/build/app/\" data-namespace=\"app\"></script>",
+			"src": "https://www.mydriver.com/build/app/app.oblvknyz.js"
+		},
+		{
+			"html": "<script src=\"/build/app/app.oblvknyz.js\" type=\"module\" crossorigin=\"true\" data-resources-url=\"/build/app/\" data-namespace=\"app\"></script>",
+			"src": "https://www.mydriver.com/build/app/app.oblvknyz.js"
+		}
 	],
-	"http://www.mileiq.com/": [],
-	"http://www.naplesnews.com/": [],
-	"http://www.news-press.com/": [],
-	"http://www.newsleader.com/": [],
+	"http://www.naturalstacks.com/": [
+		{
+			"html": "<script type=\"module\">\n  fetch('https://geoip.nekudo.com/api/')\n  .then(res => res.json())\n  .then(data => {\n    const country = data.country.code\n    const d = document\n    const template = d.querySelector('#shipping-template')\n    const target = d.querySelector('#shipping-target')\n    const cash = template.content.querySelector('.cash')\n\n    const OVER100 = [\n      'US',\n    ]\n\n    const OVER150 = [\n      'CA',\n      'DK',\n      'FI',\n      'FR',\n      'DE',\n      'IS',\n      'JP',\n      'LU',\n      'PT',\n      'AE',\n      'GB',\n    ]\n\n    const isIn100 = OVER100.includes(country)\n    const isIn150 = OVER150.includes(country)\n\n    if (isIn100) {\n      cash.innerHTML = '100'\n      target.innerHTML = template.innerHTML\n    }\n\n    if (isIn150) {\n      cash.innerHTML = '150'\n      target.innerHTML = template.innerHTML\n    }\n  })\n</script>",
+			"src": ""
+		}
+	],
+	"http://www.news-leader.com/": [],
 	"http://www.northjersey.com/": [],
+	"http://www.ozap.com/": [],
+	"http://www.pal-item.com/": [],
 	"http://www.paris-premiere.fr/": [
-		"<script type=\"module\" src=\"/client-aee3f52920.bundle.js\"></script>",
-		"<script type=\"module\" src=\"/main-ac2b5a7971.bundle.js\"></script>",
-		"<script type=\"module\" src=\"/vendors-121ddd1cf0.bundle.js\"></script>"
+		{
+			"html": "<script type=\"module\" src=\"/vendors-7d1df4e778.bundle.js\"></script>",
+			"src": "https://www.6play.fr/vendors-7d1df4e778.bundle.js"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/main-deb6b393c9.bundle.js\"></script>",
+			"src": "https://www.6play.fr/main-deb6b393c9.bundle.js"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/client-9eb4ac8de1.bundle.js\"></script>",
+			"src": "https://www.6play.fr/client-9eb4ac8de1.bundle.js"
+		}
 	],
 	"http://www.philipwalton.com/": [
-		"<script type=\"module\" src=\"/static/main-676f62787d.mjs\"></script>",
-		"<script type=\"module\" src=\"/static/npm.autotrack-ee522d9f32.mjs\"></script>",
-		"<script type=\"module\" src=\"/static/npm.dom-utils-a1db71a47f.mjs\"></script>",
-		"<script type=\"module\" src=\"/static/npm.idlize-72884ce682.mjs\"></script>",
-		"<script type=\"module\" src=\"/static/npm.workbox-window-aeb82463b6.mjs\"></script>",
-		"<script type=\"module\" src=\"/static/runtime-810160d641.mjs\"></script>"
+		{
+			"html": "<script type=\"module\" src=\"/static/runtime-2bce96b50e.mjs\"></script>",
+			"src": "https://philipwalton.com/static/runtime-2bce96b50e.mjs"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/static/npm.autotrack-2af34a4235.mjs\"></script>",
+			"src": "https://philipwalton.com/static/npm.autotrack-2af34a4235.mjs"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/static/npm.dom-utils-9b2c74cd1c.mjs\"></script>",
+			"src": "https://philipwalton.com/static/npm.dom-utils-9b2c74cd1c.mjs"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/static/npm.idlize-9b4800511a.mjs\"></script>",
+			"src": "https://philipwalton.com/static/npm.idlize-9b4800511a.mjs"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/static/npm.workbox-core-3fa12b3991.mjs\"></script>",
+			"src": "https://philipwalton.com/static/npm.workbox-core-3fa12b3991.mjs"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/static/npm.workbox-window-1e3e0b0968.mjs\"></script>",
+			"src": "https://philipwalton.com/static/npm.workbox-window-1e3e0b0968.mjs"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/static/main-7158e0ae4b.mjs\"></script>",
+			"src": "https://philipwalton.com/static/main-7158e0ae4b.mjs"
+		}
 	],
-	"http://www.pnj.com/": [],
-	"http://www.rcs.ac.uk/": [],
+	"http://www.pressconnects.com/": [],
+	"http://www.reporternews.com/": [],
+	"http://www.rgj.com/": [],
 	"http://www.s-mxs.net/": [
-		"<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/main.880547ee4eead4acc51d.min.js\"></script>",
-		"<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/vendors~main.541ea697e8dbeb001849.min.js\"></script>"
+		{
+			"html": "<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/vendors~main.cc9ce38795b4bfc12b66.min.js\"></script>",
+			"src": "https://www.sparkasse.at/etc/designs/gem/themes/js/build/vendors~main.cc9ce38795b4bfc12b66.min.js"
+		},
+		{
+			"html": "<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/main.0c953b05ca6f999e91ef.min.js\"></script>",
+			"src": "https://www.sparkasse.at/etc/designs/gem/themes/js/build/main.0c953b05ca6f999e91ef.min.js"
+		}
 	],
-	"http://www.sctimes.com/": [],
+	"http://www.screets.org/": [],
+	"http://www.shreveporttimes.com/": [],
+	"http://www.slsp.sk/": [
+		{
+			"html": "<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/vendors~main.cc9ce38795b4bfc12b66.min.js\"></script>",
+			"src": "https://www.slsp.sk/etc/designs/gem/themes/js/build/vendors~main.cc9ce38795b4bfc12b66.min.js"
+		},
+		{
+			"html": "<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/main.0c953b05ca6f999e91ef.min.js\"></script>",
+			"src": "https://www.slsp.sk/etc/designs/gem/themes/js/build/main.0c953b05ca6f999e91ef.min.js"
+		}
+	],
 	"http://www.songsterr.com/": [],
-	"http://www.tallahassee.com/": [],
-	"http://www.tcpalm.com/": [],
+	"http://www.srw.cn/": [],
 	"http://www.tennessean.com/": [],
-	"http://www.theleafchronicle.com/": [],
-	"http://www.thespectrum.com/": [],
-	"http://www.thetowntalk.com/": [],
+	"http://www.theadvertiser.com/": [],
+	"http://www.thenews-messenger.com/": [],
+	"http://www.thenewsstar.com/": [],
+	"http://www.theoutline.com/": [
+		{
+			"html": "<script type=\"module\">\n  amplitude.getInstance().identify(new amplitude.Identify().set(\"has_es_modules\", true));\n</script>",
+			"src": ""
+		}
+	],
 	"http://www.tim.pl/": [],
-	"http://www.timing.nl/": [
-		"<script type=\"module\" src=\"bundle-1.modern.cff235c3395dccebd232.js\"></script>",
-		"<script type=\"module\" src=\"vendor.modern.465310739cbaf9a6bcd3.js\"></script>"
-	],
-	"http://www.tokyocheapo.com/": [],
-	"http://www.usatoday.com/": [],
-	"http://www.usecreator.com/": [],
+	"http://www.vcstar.com/": [],
 	"http://www.videoland.com/": [],
-	"http://www.visaliatimesdelta.com/": [],
-	"http://www.walibi.nl/": [
-		"<script src=\"/themes/custom/walibi/assets/js/main-es.js?v=1.x\" type=\"module\" defer=\"\"></script>"
-	],
 	"http://www.wetransfer.com/": [],
+	"http://www.winmpg.com/": [],
 	"http://www.ydr.com/": [],
-	"http://www.zebunici.com/": [],
-	"https://a19700121.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"http://www.yinyuezj.com/": [],
+	"http://www.yorkdispatch.com/": [],
+	"http://www.zuowen.com/": [],
+	"https://a508640.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://aa5351897tw.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://aaa6642orz.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://aawei0705.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://ahu123.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://abcd220827.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://alfalfa.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://add999999.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://alley7.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://aetty20914.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://amp.courierpostonline.com/": [
+		{
+			"html": "<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>",
+			"src": "https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js"
+		}
 	],
-	"https://agnesxx.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://amp.delawareonline.com/": [
+		{
+			"html": "<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>",
+			"src": "https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js"
+		}
 	],
-	"https://alanhanana.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://alexwu987654321.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://alicechen21614.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://amis123.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://amp.courierpress.com/": [
-		"<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>"
-	],
-	"https://amp.detroitnews.com/": [
-		"<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>"
-	],
-	"https://amp.floridatoday.com/": [
-		"<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>"
-	],
-	"https://amp.guampdn.com/": [
-		"<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>"
-	],
-	"https://amp.lcsun-news.com/": [
-		"<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>"
-	],
-	"https://amp.mycentraljersey.com/": [
-		"<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>"
+	"https://amp.jconline.com/": [
+		{
+			"html": "<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>",
+			"src": "https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js"
+		}
 	],
 	"https://amp.news-press.com/": [
-		"<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>"
+		{
+			"html": "<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>",
+			"src": "https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js"
+		}
+	],
+	"https://amp.statesmanjournal.com/": [
+		{
+			"html": "<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>",
+			"src": "https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js"
+		}
+	],
+	"https://amp.stevenspointjournal.com/": [
+		{
+			"html": "<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>",
+			"src": "https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js"
+		}
+	],
+	"https://arsablue.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://bassy5292.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://bbclub.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://bcone2007.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://bj.xzl.anjuke.com/": [
+		{
+			"html": "<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_0b58e1(typeof window.test_module_scope === 'undefined')\"></script>",
+			"src": "data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_0b58e1(typeof window.test_module_scope === 'undefined')"
+		}
+	],
+	"https://bootscat.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://budai.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://c908022002.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://caioyishan.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://candy20111111.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://cartoon0413.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://cate824.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://catty1107.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://cd.news.anjuke.com/": [
+		{
+			"html": "<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_02c1d4(typeof window.test_module_scope === 'undefined')\"></script>",
+			"src": "data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_02c1d4(typeof window.test_module_scope === 'undefined')"
+		}
+	],
+	"https://cerberusrei.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://charlien.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://charmmykittybao.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://checkchecknote.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://chenminghsien.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://chiablog.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://chiaheng423.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://chiayi527.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://chichi54777.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://chihlee8182.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://cho86521523.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://chris0933570099.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://chuanstudio.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://chy5433.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://clairegarden.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://cleansingoil99.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://cq.zu.anjuke.com/": [
+		{
+			"html": "<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_eeb526(typeof window.test_module_scope === 'undefined')\"></script>",
+			"src": "data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_eeb526(typeof window.test_module_scope === 'undefined')"
+		}
+	],
+	"https://ctfa74.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://cwleevivian.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://cynthiach.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://daniel1974.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://darknight0425.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://dawogroup.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://daxdemi.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://dayyu0103.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://dreamyeh.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://drmoremore.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://earl.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://edastyle.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://edc1014073.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://edesk9.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://elaine407.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://elletsuei.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://es.airbnb.com/": [
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
+	],
+	"https://esansan.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://eu.indystar.com/": [],
+	"https://eu.knoxnews.com/": [],
+	"https://faifan.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://fairydolls.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://fanny4lin.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://fennitw.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://fian628.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://firstdream1230.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://floralin0411.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://foshan.anjuke.com/": [
+		{
+			"html": "<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_df596a(typeof window.test_module_scope === 'undefined')\"></script>",
+			"src": "data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_df596a(typeof window.test_module_scope === 'undefined')"
+		}
+	],
+	"https://fpsdrlee.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://g443237.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://gameurlife.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://glenda0430s.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://gn10202000.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://gratefulgrowers.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://gsctw.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://guodegang.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://han5638.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://happinessclean.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://harrywu714.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://heide0530.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://herballey.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://hogantai.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://honey520chu.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://hong64.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://hotnewsla.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://htt0828.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://hueitzi.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://iambp6.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://icypenguin.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://istory.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://jakonson.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://jamesman0314.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://jamieyhlin.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://janjenglyan.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://jlcforever.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://jubyjuby827.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://k7073835.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://kaelayjc.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://kanemoto.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://kellyku.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://kolassa62349.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://kookaihsu.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://krundou.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://ks.anjuke.com/": [
+		{
+			"html": "<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_98f0fc(typeof window.test_module_scope === 'undefined')\"></script>",
+			"src": "data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_98f0fc(typeof window.test_module_scope === 'undefined')"
+		}
+	],
+	"https://l5047.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://lalasan13.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://lancechuang.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://lilyri.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://lin6721.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://linneil.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://linwenpin.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://lisa0205.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://liswn.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://litbee.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://liyiting1011.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://lizika183.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://love87142.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://luocm1028.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://m1a2444.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://ma26324801.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://master5808.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://mebyliao.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://mhchiu2.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://miasoq.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://midmid22.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://min8455045.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://misssunnyegg.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://mrmark1998.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://mskelly.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://mw520.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://myswallownet.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://natsumi901117.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://nckuhank.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://nightkids.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://nil94.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://number888.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://oglobo.globo.com/": [
+		{
+			"html": "<script src=\"https://ogjs.infoglobo.com.br/32/scripts/video-player.js.pagespeed.ce.EJzsa_0hxA.js\" type=\"module\"></script>",
+			"src": "https://ogjs.infoglobo.com.br/32/scripts/video-player.js.pagespeed.ce.EJzsa_0hxA.js"
+		},
+		{
+			"html": "<script src=\"https://ogjs.infoglobo.com.br/32/scripts/people-teasers.js.pagespeed.ce.GUP1g1_WOE.js\" type=\"module\"></script>",
+			"src": "https://ogjs.infoglobo.com.br/32/scripts/people-teasers.js.pagespeed.ce.GUP1g1_WOE.js"
+		},
+		{
+			"html": "<script src=\"https://ogjs.infoglobo.com.br/32/scripts/photo-gallery-teasers.js.pagespeed.ce.xNszp-iJ2D.js\" type=\"module\"></script>",
+			"src": "https://ogjs.infoglobo.com.br/32/scripts/photo-gallery-teasers.js.pagespeed.ce.xNszp-iJ2D.js"
+		}
+	],
+	"https://ohohhan.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://olga890132.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://onhook20151027.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
+	],
+	"https://onitaiaoi2.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://amp.theleafchronicle.com/": [
-		"<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>"
-	],
-	"https://amp.thestarpress.com/": [
-		"<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>"
-	],
-	"https://amyyyui.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://anyray0127.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://army1217.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://attemborough.pixnet.net/": [],
-	"https://awei5160.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://blackwei7.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://bosstwo420.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://brad8615.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://bravodtw.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://brucie.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://buzzonion.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://caitwong.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://candice0929.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://celine1986love.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://chargeqq.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://chen570905.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://chrishen.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://cindy422.pixnet.net/": [],
-	"https://colin5881.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://cosmobservatory.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://ctrlamy.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://curtisholic.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://cydaasset.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://cylai0613.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://dandb.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://dfh98fdghjl0.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://dg.zu.anjuke.com/": [
-		"<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_1836f3(typeof window.test_module_scope === 'undefined')\"></script>"
-	],
-	"https://eat33eat33.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://eleceyes.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://ellin0409.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://emily521kimo.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://eu.freep.com/": [],
-	"https://evalucute0618.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://fi.airbnb.com/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
-	],
-	"https://flydennis.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://flyjoe.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://flywing1012.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://forever0205.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://fukangzhensuo.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://gdworld.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://gina5yeh.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://google0365.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://h7223591.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://helen4738.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://help.ele.me/": [],
-	"https://hjc7780.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://hofep.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://honda0507.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://honglian.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://howie9211.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://hr.airbnb.com/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
-	],
-	"https://hu1204.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://hyv1222.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://ianshow.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://imwhats.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://irene2960.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://irene771.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://janeta520.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://jialorng.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://joyce99999900513.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://jrlin0527.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://jujuxii.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://justan0419.pixnet.net/": [],
-	"https://kabuki11.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://kerry1223.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://kitkat0936.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://ko.airbnb.com/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
-	],
-	"https://ko8997.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://kome700108.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://koolbee.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://koshoku.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://lalastock.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://lami728.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://lashen.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://leeshinfa.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://lg6682.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://lin139874.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://linaoko.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://linmei70.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://littlefatpig2014.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://ljhe0927.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://loulala.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://lovebts1112.pixnet.net/": [],
-	"https://loveeric0324.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://m.anjuke.com/": [
-		"<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_45bf14(typeof window.test_module_scope === 'undefined')\"></script>"
-	],
-	"https://mabel671016.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://manling66.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://mas052860.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://meiko566.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://metalf16.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://mmkk160123.pixnet.net/": [],
-	"https://mobet.williamhill.it/": [
-		"<script type=\"module\" src=\"/95.15/js/williamhill/webkit/iphone/bootstrap/main.js\"></script>"
-	],
-	"https://mytam.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://n7418521.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://newleolion.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://ohmypeggy.pixnet.net/": [],
 	"https://opearl.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://osmundalin.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://outdoor105.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
+	"https://parisbymouth.com/": [],
 	"https://paul.kinlan.me/": [
-		"<script type=\"module\">\n       (async () => {\n        const {Comlink} = await import('/javascripts/comlink/comlink.es6.min.js');\n        const jsonResponse = await fetch('/index.json');\n        const xmlResponse = await fetch('/index.xml');\n        const json = await jsonResponse.json();\n        const xml = await xmlResponse.text();\n        Comlink.expose({json, xml}, window.opener);\n       })();\n     </script>"
+		{
+			"html": "<script type=\"module\">\n(async () => {\n  if (window.opener === null) return;  \n  const {Comlink} = await import('/javascripts/comlink/comlink.es6.min.js');\n  const jsonResponse = await fetch('/index.json');\n  const xmlResponse = await fetch('/index.xml');\n  const json = await jsonResponse.json();\n  const xml = await xmlResponse.text();\n  Comlink.expose({json, xml}, window.opener);\n})();\n</script>",
+			"src": ""
+		}
 	],
-	"https://pearl0613.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://pemamuseum.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://pianoteach.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://pengling.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://po123442.pixnet.net/": [],
-	"https://ponyprincess.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://pl.airbnb.com/": [
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
-	"https://pt.airbnb.com/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+	"https://poiudsmg.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://pulllalala.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://portal24.csas.cz/": [
+		{
+			"html": "<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/vendors~main.cc9ce38795b4bfc12b66.min.js\"></script>",
+			"src": "https://portal24.csas.cz/etc/designs/gem/themes/js/build/vendors~main.cc9ce38795b4bfc12b66.min.js"
+		},
+		{
+			"html": "<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/main.0c953b05ca6f999e91ef.min.js\"></script>",
+			"src": "https://portal24.csas.cz/etc/designs/gem/themes/js/build/main.0c953b05ca6f999e91ef.min.js"
+		}
 	],
-	"https://q2514811.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://positivegirl.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://qd.anjuke.com/": [
-		"<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_5ead10(typeof window.test_module_scope === 'undefined')\"></script>"
+	"https://ptp0365.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://qd.zu.anjuke.com/": [
-		"<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_9d1470(typeof window.test_module_scope === 'undefined')\"></script>"
+	"https://qwert9876568.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://rachelshen0310.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://redyoung.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://ranforever.pixnet.net/": [],
-	"https://rein1638.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://rosenancy688.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://renmei.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://ruzimato.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://retsnimle.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://sabella.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://richkid80327.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://sai083.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://ruby03230627.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://sali.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://ryanwangblog.pixnet.net/": [],
-	"https://ryen.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://sammi0224.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://shandy520.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://sasarose.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://shannonboa.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://sbuh0111.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://sharon741015.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://shin1115.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://shiningtour.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://shine.jcink.net/": [
+		{
+			"html": "<script src=\"https://unpkg.com/ionicons@4.0.0/dist/ionicons/ionicons.o84enl63.js\" type=\"module\" crossorigin=\"true\" data-resources-url=\"https://unpkg.com/ionicons@4.0.0/dist/ionicons/\" data-namespace=\"ionicons\"></script>",
+			"src": "https://unpkg.com/ionicons@4.0.0/dist/ionicons/ionicons.o84enl63.js"
+		}
 	],
-	"https://shintaro.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://shinkawac.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://sig66666.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://sky003407.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://skyvul394.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://sono1215.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://smallfive.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://spade7r.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://smilecosh.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://sportstw15.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://sogi612160.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://ssniseya0507.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://squarea.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://stockstudy.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://sunseaskyhi.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://store.slsp.sk/": [
+		{
+			"html": "<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/vendors~main.cc9ce38795b4bfc12b66.min.js\"></script>",
+			"src": "https://www.slsp.sk/etc/designs/gem/themes/js/build/vendors~main.cc9ce38795b4bfc12b66.min.js"
+		},
+		{
+			"html": "<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/main.0c953b05ca6f999e91ef.min.js\"></script>",
+			"src": "https://www.slsp.sk/etc/designs/gem/themes/js/build/main.0c953b05ca6f999e91ef.min.js"
+		}
 	],
-	"https://sweet0933.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://su.fang.anjuke.com/": [
+		{
+			"html": "<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_dc7be1(typeof window.test_module_scope === 'undefined')\"></script>",
+			"src": "data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_dc7be1(typeof window.test_module_scope === 'undefined')"
+		}
 	],
-	"https://sworkit.com/": [
-		"<script src=\"https://sworkit.com/sw-auth-payment/sw-auth-payment.madpstuf.js\" type=\"module\" crossorigin=\"true\" data-resources-url=\"https://sworkit.com/sw-auth-payment/\" data-namespace=\"sw-auth-payment\"></script>"
+	"https://sungshu.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://terraguesthouse1.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://sunnystayusa.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://tinawang007.pixnet.net/": [],
-	"https://tokyou.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://tactac38.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://toye44409.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://teamaple.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://toysbaby01.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://teresashih.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://tpmlcog02.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://the-elder-scrolls-v-skyrim.en.softonic.com/": [
+		{
+			"html": "<script type=\"module\" crossorigin=\"anonymous\" src=\"https://sc.sftcdn.net/scripts/57bea-e11b7.mjs\" async=\"\"></script>",
+			"src": "https://sc.sftcdn.net/scripts/57bea-e11b7.mjs"
+		},
+		{
+			"html": "<script type=\"module\" crossorigin=\"anonymous\" src=\"https://sc.sftcdn.net/scripts/1c93b-dfbc9.mjs\" async=\"\"></script>",
+			"src": "https://sc.sftcdn.net/scripts/1c93b-dfbc9.mjs"
+		},
+		{
+			"html": "<script type=\"module\" crossorigin=\"anonymous\" src=\"https://sc.sftcdn.net/scripts/f50cb-6bae7.mjs\" async=\"\"></script>",
+			"src": "https://sc.sftcdn.net/scripts/f50cb-6bae7.mjs"
+		}
 	],
-	"https://uginc.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://threeplay33.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://uki.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://tinachang7122.pixnet.net/": [],
+	"https://tkbgo.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://uniquevera.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://tonewang.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://uw-media.usatoday.com/": [
-		"<script type=\"module\" src=\"https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/scripts/gallium.js\" rel=\"preload\"></script>"
+	"https://ttypacking.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://verytiffany.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://tutu109.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://vici1717.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://twoplay.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://vickyweihung.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://visualizer.protectwise.com/": [
+		{
+			"html": "<script type=\"module\" src=\"scripts/modern/runtime-d7ba8e6babaa058937a5.js\"></script>",
+			"src": "https://visualizer.protectwise.com/scripts/modern/runtime-d7ba8e6babaa058937a5.js"
+		},
+		{
+			"html": "<script type=\"module\" src=\"scripts/modern/vendor-3dc4de891bc5a0b1c7ff.js\"></script>",
+			"src": "https://visualizer.protectwise.com/scripts/modern/vendor-3dc4de891bc5a0b1c7ff.js"
+		},
+		{
+			"html": "<script type=\"module\" src=\"scripts/modern/main-524b8e537972c50c4bf1.js\"></script>",
+			"src": "https://visualizer.protectwise.com/scripts/modern/main-524b8e537972c50c4bf1.js"
+		}
 	],
-	"https://visin15.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://vivianchiu.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://vivianyang.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://wahamf.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://wanwanr9.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://weio851015.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://weareflyingcats.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://wenwen1913.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://weiai206.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://will1122.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://wellyh.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://win.marthastewart.com/": [
+		{
+			"html": "<script async=\"\" type=\"module\" src=\"/js/mds.0d1bcb.js\" crossorigin=\"\"></script>",
+			"src": "https://win.marthastewart.com/js/mds.0d1bcb.js"
+		}
 	],
-	"https://wewememe.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://wolfgang888.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://wh.zu.anjuke.com/": [
-		"<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_7fc9b4(typeof window.test_module_scope === 'undefined')\"></script>"
+	"https://woman1.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://white04.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://worldwithout.pixnet.net/": [
+		{
+			"html": "<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "https://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://wind7220.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://wuxi.anjuke.com/": [
+		{
+			"html": "<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_3db1a1(typeof window.test_module_scope === 'undefined')\"></script>",
+			"src": "data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_3db1a1(typeof window.test_module_scope === 'undefined')"
+		}
 	],
-	"https://windaevent.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://www.airbnb.ae/": [
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
-	"https://wuzyho.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://www.airbnb.cat/": [
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
-	"https://www.6play.fr/": [
-		"<script type=\"module\" src=\"/client-aee3f52920.bundle.js\"></script>",
-		"<script type=\"module\" src=\"/main-ac2b5a7971.bundle.js\"></script>",
-		"<script type=\"module\" src=\"/vendors-121ddd1cf0.bundle.js\"></script>"
+	"https://www.airbnb.ch/": [
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
-	"https://www.airbnb.ca/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+	"https://www.airbnb.co.in/": [
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
-	"https://www.airbnb.co.kr/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+	"https://www.airbnb.co.uk/": [
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
-	"https://www.airbnb.co.ve/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+	"https://www.airbnb.com.ar/": [
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
-	"https://www.airbnb.com.au/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+	"https://www.airbnb.com.my/": [
+		{
+			"html": "<script defer=\"\" src=\"https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/packages/shims_post_modules-d108c432.js"
+		}
 	],
-	"https://www.airbnb.com.tw/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
-	],
-	"https://www.airbnb.cz/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+	"https://www.airbnb.ie/": [
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"https://www.airbnb.nl/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
-	],
-	"https://www.airbnb.no/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
 	"https://www.airbnb.pl/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+		{
+			"html": "<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js\" type=\"module\"></script>",
+			"src": "https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-26fb8add.js"
+		}
 	],
-	"https://www.airbnb.ru/": [
-		"<script defer=\"defer\" src=\"https://a0.muscache.com/airbnb/static/client/packages/shims_post_modules.bundle-486306d7.js\" type=\"module\"></script>"
+	"https://www.baxterbulletin.com/": [],
+	"https://www.clarionledger.com/": [],
+	"https://www.courierpress.com/": [],
+	"https://www.desertsun.com/": [],
+	"https://www.erstebank.rs/": [
+		{
+			"html": "<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/vendors~main.cc9ce38795b4bfc12b66.min.js\"></script>",
+			"src": "https://www.erstebank.rs/etc/designs/gem/themes/js/build/vendors~main.cc9ce38795b4bfc12b66.min.js"
+		},
+		{
+			"html": "<script type=\"module\" crossorigin=\"use-credentials\" src=\"/etc/designs/gem/themes/js/build/main.0c953b05ca6f999e91ef.min.js\"></script>",
+			"src": "https://www.erstebank.rs/etc/designs/gem/themes/js/build/main.0c953b05ca6f999e91ef.min.js"
+		}
 	],
-	"https://www.blendtec.com/": [
-		"<script src=\"//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/app.bundle.js?14025473765476224148\" type=\"module\"></script>",
-		"<script src=\"//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/index.bundle.js?14025473765476224148\" type=\"module\"></script>",
-		"<script src=\"//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/sections.bundle.js?14025473765476224148\" type=\"module\"></script>",
-		"<script src=\"//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/vendor.bundle.js?14025473765476224148\" type=\"module\"></script>"
+	"https://www.eukanuba.eu/": [
+		{
+			"html": "<script type=\"module\" src=\"/assets/dist/commons.b207553471affc2bf49d.mjs\"></script>",
+			"src": "https://www.eukanuba.eu/assets/dist/commons.b207553471affc2bf49d.mjs"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/assets/dist/vendors.app.0bead47d02cac360aec4.mjs\"></script>",
+			"src": "https://www.eukanuba.eu/assets/dist/vendors.app.0bead47d02cac360aec4.mjs"
+		},
+		{
+			"html": "<script type=\"module\" src=\"/assets/dist/app.bd1aa2f4a032b842a47c.mjs\"></script>",
+			"src": "https://www.eukanuba.eu/assets/dist/app.bd1aa2f4a032b842a47c.mjs"
+		}
 	],
-	"https://www.coshoctontribune.com/": [],
-	"https://www.debijenkorf.be/cdn-static/att/at_v10.0.0.js": [],
-	"https://www.elpasotimes.com/": [],
-	"https://www.gosanangelo.com/": [],
-	"https://www.idealo.co.uk/": [],
-	"https://www.news-leader.com/": [],
-	"https://www.northjersey.com/": [],
-	"https://www.promega.in/": [
-		"<script defer=\"\" type=\"module\" src=\"https://promega.media/assets/scripts/compiled/all.9692f2577b327e1da9f5.es2015.js\"></script>",
-		"<script defer=\"\" type=\"module\" src=\"https://promega.media/assets/scripts/compiled/lib.77d4ee02484ad884e87a.es2015.js\"></script>"
+	"https://www.finder.com/": [
+		{
+			"html": "<script defer=\"\" type=\"module\" src=\"https://d1ic4altzx8ueg.cloudfront.net/parent-theme/static/578f/static.es6.js\"></script>",
+			"src": "https://d1ic4altzx8ueg.cloudfront.net/parent-theme/static/578f/static.es6.js"
+		},
+		{
+			"html": "<script defer=\"\" type=\"module\" src=\"https://d1ic4altzx8ueg.cloudfront.net/parent-theme/static/578f/global.es6.js\"></script>",
+			"src": "https://d1ic4altzx8ueg.cloudfront.net/parent-theme/static/578f/global.es6.js"
+		}
 	],
-	"https://www.promega.jp/": [
-		"<script defer=\"\" type=\"module\" src=\"https://promega.media/assets/scripts/compiled/all.9692f2577b327e1da9f5.es2015.js\"></script>",
-		"<script defer=\"\" type=\"module\" src=\"https://promega.media/assets/scripts/compiled/lib.77d4ee02484ad884e87a.es2015.js\"></script>"
+	"https://www.google-analytics.com/analytics.js": [],
+	"https://www.hattiesburgamerican.com/": [],
+	"https://www.investacrowd.com/": [
+		{
+			"html": "<script src=\"/static/dist/assets/bundle.313424b850c7.js\" type=\"module\"></script>",
+			"src": "https://www.investacrowd.com/static/dist/assets/bundle.313424b850c7.js"
+		}
 	],
-	"https://www.sports365.in/": [
-		"<script src=\"https://unpkg.com/ionicons@4.1.2/dist/ionicons/ionicons.4nj5ozg1.js\" type=\"module\" crossorigin=\"true\" data-resources-url=\"https://unpkg.com/ionicons@4.1.2/dist/ionicons/\" data-namespace=\"ionicons\"></script>"
+	"https://www.lcsun-news.com/": [],
+	"https://www.mydriver.com/": [
+		{
+			"html": "<script src=\"/build/app/app.oblvknyz.js\" type=\"module\" crossorigin=\"true\" data-resources-url=\"/build/app/\" data-namespace=\"app\"></script>",
+			"src": "https://www.mydriver.com/build/app/app.oblvknyz.js"
+		},
+		{
+			"html": "<script src=\"/build/app/app.oblvknyz.js\" type=\"module\" crossorigin=\"true\" data-resources-url=\"/build/app/\" data-namespace=\"app\"></script>",
+			"src": "https://www.mydriver.com/build/app/app.oblvknyz.js"
+		}
 	],
-	"https://www.thedailyjournal.com/": [],
-	"https://www.wausaudailyherald.com/": [],
-	"https://xa.zu.anjuke.com/": [
-		"<script type=\"module\" src=\"data:text/javascript;charset=utf-8,var test_module_scope = true; window.callback_46bd88(typeof window.test_module_scope === 'undefined')\"></script>"
+	"https://www.publicopiniononline.com/": [],
+	"https://www.ruidosonews.com/": [],
+	"https://www.shreveporttimes.com/": [],
+	"https://www.thecalifornian.com/": [],
+	"https://www.upwork.com/": [],
+	"https://x2001hide.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://xhanax.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://xeddie017.pixnet.net/": [],
+	"https://yesmary158.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://xiuxian8970.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://yjpan2008.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://xjimomo5125.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://ylang0824.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://yamahadaice.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://yoyochia2008.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://yayayeh99.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://ytchen1014.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://yeheslite.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://yuk7410.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://yeoli2682001.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://z12322100.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://yingoyingo.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://zonbibi.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	],
-	"https://ylps40701.pixnet.net/": [
-		"<script src=\"https://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://yuichii.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://yujia1102.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://z0923072056.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
-	],
-	"https://z5310473.pixnet.net/": [
-		"<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.0/pixgame--modern.min.js\" type=\"module\"></script>"
+	"https://zora0517.pixnet.net/": [
+		{
+			"html": "<script src=\"http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js\" type=\"module\"></script>",
+			"src": "http://pixgame-asset.pixfs.net/js/v1.5.1/pixgame--modern.min.js"
+		}
 	]
 }
