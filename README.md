@@ -1629,7 +1629,7 @@ So naturally I wondered, how many people are following Google’s advice and usi
 </details>
 </p>
 
-Of the 383 sites, Puppeteer couldn’t find a `<script type="module">` tag for 72 of them. I emailed one of the authors of the Google article to ask about this, and he replied that the sites might be loading ES modules via `import()` (which would be much harder for me to detect via Puppeteer) or the `<script type="module">` might be behind a paywall or login form or somewhere deeper in the site where my scraper wouldn’t see it.
+Of the 383 sites, Puppeteer couldn’t find a `<script type="module">` tag for 72 of them. I emailed one of the authors of the Google article to ask about this, and they replied that the sites might be loading ES modules via `import()` (which would be much harder for me to detect via Puppeteer) or the `<script type="module">` might be behind a paywall or login form or somewhere deeper in the site where my scraper wouldn’t see it.
 
 Leaving those aside, though, I did find `<script type="module">` tags in 311 sites. Of those:
 
