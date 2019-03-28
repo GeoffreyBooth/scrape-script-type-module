@@ -1629,7 +1629,7 @@ So naturally I wondered, how many people are following Google’s advice and usi
 </details>
 </p>
 
-Of the 383 sites, Puppeteer couldn’t find a `<script type="module">` tag for 72 of them. I emailed Google article author Mathias Bynens to ask about this, and he replied that the sites might be loading ES modules via `import()` (which would be much harder for me to detect via Puppeteer) or the `<script type="module">` might be behind a paywall or login form or somewhere deeper in the site where my scraper wouldn’t see it.
+Of the 383 sites, Puppeteer couldn’t find a `<script type="module">` tag for 72 of them. I emailed one of the authors of the Google article to ask about this, and he replied that the sites might be loading ES modules via `import()` (which would be much harder for me to detect via Puppeteer) or the `<script type="module">` might be behind a paywall or login form or somewhere deeper in the site where my scraper wouldn’t see it.
 
 Leaving those aside, though, I did find `<script type="module">` tags in 311 sites. Of those:
 
@@ -1639,6 +1639,6 @@ Leaving those aside, though, I did find `<script type="module">` tags in 311 sit
 
 - 3 of 311 sites, **1%** of the dataset, use `<script type="module">` tags with an inline script.
 
-- 3 of 311 sites, **1%** of the dataset, use `<script type="module">` to reference URLs ending in `.mjs`. One of these sites is [philipwalton.com](https://philipwalton.com/), the personal site of a developer who wrote [an article](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/) encouraging the adoption of `.mjs`.
+- 3 of 311 sites, **1%** of the dataset, use `<script type="module">` to reference URLs ending in `.mjs`. One of these sites is the personal site of a developer who wrote [an article](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/) encouraging the adoption of `.mjs`.
 
 The code for reproducing this experiment is included in this repo. Check it out and run `npm install && npm start`. See `sites.yaml` for how to update the list of sites from Google’s latest data.
